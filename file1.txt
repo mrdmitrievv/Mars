@@ -1,6 +1,1 @@
-Hello!
-world
-Mobile Dev
-Git training
-login form
-logout
+bugfix
