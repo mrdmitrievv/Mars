@@ -3,4 +3,4 @@ world
 Mobile Dev
 Git training
 login form
-login
+logout
